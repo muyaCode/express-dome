@@ -18,7 +18,7 @@ const app = express();
 
 // 处理动态网页
 app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'jade');
+app.set('view engine', 'ejs');
 /*
 在express中我们可以通过morgan来记录日志
 我们只需要安装morgan, 导入morgan, 注册morgan的中间件即可
