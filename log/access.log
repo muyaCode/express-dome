@@ -1,0 +1,4 @@
+::ffff:127.0.0.1 - - [05/Jun/2020:07:41:21 +0000] "GET /register.html HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"
+::ffff:127.0.0.1 - - [05/Jun/2020:07:41:21 +0000] "GET /css/register.css HTTP/1.1" 304 - "http://127.0.0.1:3000/register.html" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"
+::ffff:127.0.0.1 - - [05/Jun/2020:07:41:21 +0000] "GET /js/jquery-3.1.1.js HTTP/1.1" 304 - "http://127.0.0.1:3000/register.html" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"
+::ffff:127.0.0.1 - - [05/Jun/2020:07:41:21 +0000] "GET /js/register.js HTTP/1.1" 304 - "http://127.0.0.1:3000/register.html" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"
